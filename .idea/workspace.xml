@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="340c20f5-fab0-4ada-8db4-3e751a58a97c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/functional/Tuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/CreditCard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/CreditCard2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/Donut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/Donut2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/DonutShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/DonutShop2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/Payment2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/production/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/Purchase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test/functional-programming-kotlin/_1_6_imperative_to_functional/functional/DonutShopTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test/functional-programming-kotlin/_1_6_imperative_to_functional/imperative/DonutShopTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/_1_6_imperative_to_functional/imperative/DonutShop.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -73,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/_1_6_imperative_to_functional/functional/Payment2.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -82,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/test/_1_6_imperative_to_functional/functional/DonutShopTest2.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/src/_1_6_imperative_to_functional/functional/Tuple.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -408,41 +417,6 @@
             <path>
               <item name="functional-programming-kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="functional-programming-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="functional-programming-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="functional-programming-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="_1_6_imperative_to_functional" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="functional-programming-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="_1_6_imperative_to_functional" type="462c0819:PsiDirectoryNode" />
-              <item name="imperative" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="functional-programming-kotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional-programming-kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -655,7 +629,7 @@
       <updated>1526581541430</updated>
       <workItem from="1526581542922" duration="794000" />
       <workItem from="1526667427795" duration="5208000" />
-      <workItem from="1526731175711" duration="2857000" />
+      <workItem from="1526731175711" duration="3188000" />
     </task>
     <servers />
   </component>
@@ -692,11 +666,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8859000" />
+    <option name="totallyTimeSpent" value="9190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="218" y="23" width="1539" height="1127" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -708,11 +681,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3291262" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291262" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3291262" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18102872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18102872" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -868,7 +841,7 @@
     <entry file="file://$PROJECT_DIR$/src/_1_6_imperative_to_functional/functional/Tuple.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -903,7 +876,7 @@
     <entry file="file://$PROJECT_DIR$/src/_1_6_imperative_to_functional/imperative/DonutShop.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -931,14 +904,14 @@
     <entry file="file://$PROJECT_DIR$/src/_1_6_imperative_to_functional/functional/Payment2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/_1_6_imperative_to_functional/functional/DonutShopTest2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
